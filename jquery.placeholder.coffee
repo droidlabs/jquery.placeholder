@@ -1,3 +1,9 @@
+#
+# jQuery Placeholder Plugin
+# https://github.com/droidlabs/jquery.placeholder
+# Copyright (c) 2011-2012 Droid Labs
+# Licenced under [MIT](http://www.opensource.org/licenses/mit-license.php).
+#
 (($) ->
   $.fn.placeholder = (options) ->
     defaults =
